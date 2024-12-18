@@ -24,7 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-```
+
 Developed by : Priya.B
 Register number : 24900803
 ```
@@ -62,7 +62,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-
+```
 # Output :
 ![Screenshot 2024-12-18 092245](https://github.com/user-attachments/assets/87e090ae-1156-4d04-b5b4-f4003eb7c99c)
 
