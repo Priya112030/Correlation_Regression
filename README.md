@@ -2,7 +2,7 @@
 # Name :Priya.B
 # Reference number :24900803
 # Date :26.10.2024
-# Aim : 
+# Aim:
 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
@@ -63,7 +63,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 ```
-# Output :
+# Output
+
 ![Screenshot 2024-12-18 092245](https://github.com/user-attachments/assets/87e090ae-1156-4d04-b5b4-f4003eb7c99c)
 
 
